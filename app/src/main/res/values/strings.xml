@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Homework4</string>
+    <string name="add">LOG A DREAM</string>
+    <string name="title">DREAM TITLE</string>
+    <string name="context">WHAT HAPPENED?</string>
+    <string name="reflection">WHAT\'S YOUR INTERPRETATION?</string>
+    <string name="emotion">HOW DO YOU FEEL?</string>
+    <string name="save">SAVE</string>
+    <string name="delete">DELETE</string>
+    <string name="update">UPDATE</string>
+    <string name="cancel">CANCEL</string>
+    <string name="confirm">CONFIRM</string>
+    <string name="dialog">WOULD YOU LIKE TO DELETE?</string>
+
+    <string-array name="emotion_list">
+        <item>fear</item>
+        <item>panic</item>
+        <item>loss of self</item>
+        <item>grief</item>
+        <item>freedom</item>
+        <item>love</item>
+        <item>joy</item>
+        <item>vulnerability</item>
+        <item>confused</item>
+        <item>sad</item>
+    </string-array>
+</resources>
